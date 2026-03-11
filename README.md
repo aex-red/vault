@@ -1,11 +1,11 @@
-vault.aex.red // Rules of Engagement
+#### vault.aex.red // Rules of Engagement
 
-    [!NOTE]
-    This is a collection of offensive security research, training, notes, and PoCs. It exists so I can get better at what I do. Use it for good, or at least use it for learning.
+[!NOTE]
+This is a collection of offensive security research, training, notes, and PoCs. It exists so I can get better at what I do. Use it for good, or at least use it for learning.
 
 The Golden Rule: **Don't Be A Tool**
 
-    The tools and techniques documented here are for authorized security testing and educational research only. If you're using this stuff to break into things you don't own, or to cause grief for people just trying to get through their day, you're in the wrong place.
+_The tools and techniques documented here are for authorized security testing and educational research only. If you're using this stuff to break into things you don't own, or to cause grief for people just trying to get through their day, you're in the wrong place._
 
 ###1. Lab it up
 Lots of the information here is "spicy"; it can be used to crash services, break stuff, or trigger alerts. Only use it if you understand what it does. If you break your own stuff, that's a learning experience; if you break someone else's, that's a problem.
