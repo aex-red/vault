@@ -1,7 +1,6 @@
 # vault.aex.red // Rules of Engagement
 
-[!NOTE]
-This is a collection of offensive security research, training, notes, and PoCs. It exists so I can get better at what I do. Use it for good, or at least use it for learning.
+[!NOTE] This is a collection of offensive security research, training, notes, and PoCs. It exists so I can get better at what I do. Use it for good, or at least use it for learning.
 
 The Golden Rule: **Don't Be A Tool**
 
