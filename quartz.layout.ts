@@ -33,14 +33,9 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-  title: "Explorer",
-  folderDefaultState: "open", // Expands all directories by default
-}),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),
@@ -64,10 +59,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({
-      title: "Explorer",
-      folderDefaultState: "open", // Expands all directories by default
-}),
+    Component.Explorer(),
   ],
   right: [],
 }
