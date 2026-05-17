@@ -64,7 +64,10 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Explorer",
+      folderDefaultState: "open", // Expands all directories by default
+}),
   ],
   right: [],
 }
