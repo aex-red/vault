@@ -1,0 +1,31 @@
+/*
+
+# Quartz framework
+!/quartz
+!/quartz.config.ts
+!/quartz.layout.ts
+!/package.json
+!/package-lock.json
+!/tsconfig.json
+!/globals.d.ts
+!/index.d.ts
+
+# Vault content
+!/Compendium
+!/OSINT
+!/Pentest
+!/Red Team
+!/Toolbox
+!/index.md
+!/README.md
+!/.gitignore
+!/.github
+
+# Exclude inside vault
+Tradecraft/
+Images/
+**/.claude
+**/.obsidian
+node_modules/
+**/.DS_Store
+**/Thumbs.db
